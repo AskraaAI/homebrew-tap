@@ -1,6 +1,6 @@
 cask "runnervision" do
-  version "1.0.0"
-  sha256 "79a2e2e16614186a5d0edb2c51f23970bf54dd48d13e098a7dd390ede386b4e3"
+  version "1.0.1"
+  sha256 "38d69f610061b3b3c0a274e401c209fd088e04e77be618bf3533ae5afc59a532"
 
   url "https://runnervision.askraa.ai/download/RunnerVision-#{version}.dmg"
   name "RunnerVision"
